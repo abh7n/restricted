@@ -2,7 +2,9 @@ Restricted Textarea
 
 A simple textarea with live character count and max character limit.
 
-![Screenshot](restricted-textarea.png)
+Web link - https://abh7n.github.io/restricted-text-area/
+
+![Screenshot](restricted-text-area.png)
 
 
 Features
