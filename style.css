@@ -1,0 +1,36 @@
+.textarea-container {
+  position: relative;
+  
+}
+
+#text-area {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  font-size: 16px;
+  resize: none;
+  border: 2px black solid;
+  border-radius: 10px;
+  outline: none;
+}
+
+#text-area.red-border {
+  border: 4px solid red;
+  border-radius: 10px;
+}
+
+#text-area.over-limit {
+  color: red;
+}
+
+#char-count {
+  position: absolute;
+  left: 275px;
+  top: 120px;
+  font-size: 14px;
+  color: #666;
+}
+
+
+
+
